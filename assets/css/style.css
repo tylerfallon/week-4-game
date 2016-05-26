@@ -1,0 +1,61 @@
+body {
+	background-image: url("../images/background.jpg");
+}
+
+h1 {
+	color: blue;
+}
+
+#crystalscollector {
+	background-color: yellow;
+	width: 300px;
+	margin-left: 50px;
+}
+
+#paragraph {
+	background-color: #D3D3D3;
+	width: 600px;
+	margin-left: 50px;
+}
+
+#totalscore {
+	background-color: red;
+	width: 300px;
+	color: white;
+	margin-left: 50px;
+}
+
+#randomnumber {
+	float: left;
+	width: 300px;
+	height: 100px;
+	background-color: yellow;
+	margin-left: 50px;
+	color: black;
+}
+#gamestatus {
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	margin-left: 10px;
+	float: left;
+	color: white;
+}
+
+#scorebox {
+	clear: both;
+	width: 300px;
+	height: 100px;
+	color: white;
+	background-color: red;
+	margin-left: 50px;
+}
+
+#gemsall {
+	clear: both;
+	margin-left: 50px;
+	margin-top: 100px;
+}
+
+
+
